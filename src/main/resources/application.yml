@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Victor-Egas/api-config-server.git 
+          uri: https://github.com/Victor-Egas/config-microservice
 
 server:
     port: 8888
