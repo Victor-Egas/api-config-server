@@ -8,5 +8,5 @@ spring:
           uri: https://github.com/Victor-Egas/api-config-server.git 
 
 server:
-    port: 8005
+    port: 8888
      
